@@ -3,7 +3,8 @@
 
 Data Structures is about how data can be stored in different structures. Algorithms is about how to solve different problems, often by searching through and manipulating data structures. Theory about Data Structures and Algorithms (DSA) helps us to use large amounts of data to solve problems efficiently.
 
-1. DATA STRUCTURE PRELIMINARIES 
+1. DATA STRUCTURE PRELIMINARIES
+   
         1.1 Concept of Data Type 
         1.1.1 Primitive data type 
         1.1.2 User defined data type 
@@ -20,7 +21,8 @@ Data Structures is about how data can be stored in different structures. Algorit
         1.4 Data Structures versus Data Types 
         1.5 Operations on Data Structures
 
-2. INTRODUCTION TO ALGORITHM 
+2. INTRODUCTION TO ALGORITHM
+   
         2.1 What Is an Algorithm? 
         2.2 Importance of an Algorithm 
         2.3 Different Approaches to Designing an Algorithm 
@@ -42,6 +44,7 @@ Data Structures is about how data can be stored in different structures. Algorit
         2.13 Greedy Method
 
 3. ARRAY
+   
         3.1 Definition 
         3.2 Creating an Array 
         3.3 Accessing Elements of an Array 
@@ -68,7 +71,8 @@ Data Structures is about how data can be stored in different structures. Algorit
         3.11 Sparse Matrix 
         3.12 Programming Examples 
 
-4. PYTHON DATA STRUCTURES 
+4. PYTHON DATA STRUCTURES
+   
         4.1 Lists 
         4.1.1 Creating a List 
         4.1.2 Accessing List Elements 
@@ -113,7 +117,9 @@ Data Structures is about how data can be stored in different structures. Algorit
         4.5 Comparative Study 
         4.6 Programming Examples 
 Python Data Structures at a Glance 
+
 5. STRINGS 145
+
         5.1 Introduction 
         5.2 Basic String Operations 
         5.2.1 Slicing Operations on String 
@@ -139,6 +145,7 @@ Python Data Structures at a Glance
         6.7 Programming Examples 
 
 7. LINKED LIST
+    
         7.1 Definition 
         7.2 Advantages of a Linked List 
         7.3 Types of Linked Lists 
@@ -190,7 +197,8 @@ Python Data Structures at a Glance
         7.16 Disadvantages of a Linked List 
         7.17 Programming Examples 
 
-8. STACK 
+8. STACK
+    
         8.1 Definitions and Concept 
         8.2 Operations Associated with Stacks 
         8.3 Representation of a Stack 
@@ -209,7 +217,8 @@ Python Data Structures at a Glance
         8.5.3 Reversing any Sequence 
         8.5.4 Recursion 
    
-9. QUEUE 
+9. QUEUE
+    
         9.1 Definitions and Concept 
         9.2 Operations Associated with Queues 
         9.3 Representation of a Queue 
@@ -226,7 +235,8 @@ Python Data Structures at a Glance
         9.5.2 Priority Queue 
         9.6 Applications of a Queue 
        
-10. TREES 
+10. TREES
+    
         10.1 Definition and Concept 
         10.2 Terminology 
         10.3 Types of Trees 
@@ -289,7 +299,8 @@ Python Data Structures at a Glance
         10.18 2–3 Tree 
         10.19 Trie Tree 
 
-11.  HEAP 
+11.  HEAP
+     
         11.1 Definition and Concept 
         11.2 Representation of a Heap in Memory 
         11.3 Operations on a Heap 
@@ -299,6 +310,7 @@ Python Data Structures at a Glance
         11.4.1 Implementing a Priority Queue Using Heap 
 
 12.GRAPH 
+
         12.1 Definition and Concept 
         12.2 Terminology 
         12.3 Representation of a Graph 
@@ -320,7 +332,8 @@ Python Data Structures at a Glance
         12.6.2 Among All Pairs of Vertices 
         12.7 Applications of Graph 
 
-13.  SEARCHING AND SORTING 
+13.  SEARCHING AND SORTING
+    
         13.1 Introduction to Searching 
         13.1.1 Linear Search 
         13.1.2 Binary Search 
@@ -337,7 +350,8 @@ Python Data Structures at a Glance
         13.3 Comparison of Different Sorting Algorithms 
         13.4 Concept of Internal and External Sorting 
      
-14.  HASHING 
+14.  HASHING
+    
         14.1 Definitions and Concept 
         14.2 Hash Functions 
         14.2.1 Division Method 
