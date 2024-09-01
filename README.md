@@ -301,7 +301,7 @@ Python Data Structures at a Glance
         10.19 Trie Tree 
 
 11.  HEAP
-     
+
         11.1 Definition and Concept 
         11.2 Representation of a Heap in Memory 
         11.3 Operations on a Heap 
