@@ -133,7 +133,8 @@ Python Data Structures at a Glance
         5.7.2 Knuth Morris Pratt Pattern Matching Algorithm 
         5.8 Programming Example 
 
-6. RECURSION 
+6. RECURSION
+   
         6.1 Definition 
         6.2 Types of Recursion 
         6.3 Recursion vs. Iteration 
