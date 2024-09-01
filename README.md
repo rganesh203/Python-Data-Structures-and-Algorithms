@@ -312,7 +312,6 @@ Python Data Structures at a Glance
 
 11.  HEAP
 
-
         11.1 Definition and Concept 
         11.2 Representation of a Heap in Memory 
         11.3 Operations on a Heap 
@@ -347,7 +346,6 @@ Python Data Structures at a Glance
 
 13.  SEARCHING AND SORTING
 
-
         13.1 Introduction to Searching 
         13.1.1 Linear Search 
         13.1.2 Binary Search 
@@ -364,9 +362,8 @@ Python Data Structures at a Glance
         13.3 Comparison of Different Sorting Algorithms 
         13.4 Concept of Internal and External Sorting 
      
-13.  HASHING
+14.  HASHING
 
-    
         14.1 Definitions and Concept 
         14.2 Hash Functions 
         14.2.1 Division Method 
