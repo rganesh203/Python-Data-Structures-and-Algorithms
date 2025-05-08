@@ -346,6 +346,7 @@ Python Data Structures at a Glance
 
 13.  SEARCHING AND SORTING
 
+
         13.1 Introduction to Searching 
         13.1.1 Linear Search 
         13.1.2 Binary Search 
@@ -363,6 +364,7 @@ Python Data Structures at a Glance
         13.4 Concept of Internal and External Sorting 
      
 14.  HASHING
+
 
         14.1 Definitions and Concept 
         14.2 Hash Functions 
