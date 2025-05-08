@@ -312,7 +312,7 @@ Python Data Structures at a Glance
 
 11.  HEAP
 
-        11.1 Definition and Concept 
+        11.1 Definition and Concept
         11.2 Representation of a Heap in Memory 
         11.3 Operations on a Heap 
         11.3.1 Inserting a New Element in a Heap 
